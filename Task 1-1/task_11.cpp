@@ -1,4 +1,4 @@
-#define USE_MATH_DEFINES 
+п»ї#define USE_MATH_DEFINES 
 
 
 #include <iostream>
@@ -9,20 +9,20 @@ using namespace std;
 
 
 /*
-* \brief находит значение a
-* \param x Значение x
-* \param y Значение z
-* \param z Значение y
-* \return Значение a
+* \brief РЅР°С…РѕРґРёС‚ Р·РЅР°С‡РµРЅРёРµ a
+* \param x Р—РЅР°С‡РµРЅРёРµ x
+* \param y Р—РЅР°С‡РµРЅРёРµ z
+* \param z Р—РЅР°С‡РµРЅРёРµ y
+* \return Р—РЅР°С‡РµРЅРёРµ a
 */
 double GetA(const double x, const double y, const double z);
 
 /*
-* \brief Находит значение b
-* \param x Значение y
-* \param y Значение x
-* \param z Значение z
-* \return Значение b
+* \brief РќР°С…РѕРґРёС‚ Р·РЅР°С‡РµРЅРёРµ b
+* \param x Р—РЅР°С‡РµРЅРёРµ y
+* \param y Р—РЅР°С‡РµРЅРёРµ x
+* \param z Р—РЅР°С‡РµРЅРёРµ z
+* \return Р—РЅР°С‡РµРЅРёРµ b
 */
 double GetB(const double x, const double y, const double z);
 
